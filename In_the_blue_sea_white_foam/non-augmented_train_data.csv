@@ -1,0 +1,216 @@
+file_path,label
+NA_Fish_Dataset/Black Sea Sprat/00016.png,0
+NA_Fish_Dataset/Black Sea Sprat/00017.png,0
+NA_Fish_Dataset/Black Sea Sprat/00048.png,0
+NA_Fish_Dataset/Black Sea Sprat/00028.png,0
+NA_Fish_Dataset/Black Sea Sprat/00049.png,0
+NA_Fish_Dataset/Black Sea Sprat/00007.png,0
+NA_Fish_Dataset/Black Sea Sprat/00044.png,0
+NA_Fish_Dataset/Black Sea Sprat/00022.png,0
+NA_Fish_Dataset/Black Sea Sprat/00012.png,0
+NA_Fish_Dataset/Black Sea Sprat/00014.png,0
+NA_Fish_Dataset/Black Sea Sprat/00040.png,0
+NA_Fish_Dataset/Black Sea Sprat/00029.png,0
+NA_Fish_Dataset/Black Sea Sprat/00015.png,0
+NA_Fish_Dataset/Black Sea Sprat/00021.png,0
+NA_Fish_Dataset/Black Sea Sprat/00002.png,0
+NA_Fish_Dataset/Black Sea Sprat/00033.png,0
+NA_Fish_Dataset/Black Sea Sprat/00020.png,0
+NA_Fish_Dataset/Black Sea Sprat/00023.png,0
+NA_Fish_Dataset/Black Sea Sprat/00001.png,0
+NA_Fish_Dataset/Black Sea Sprat/00010.png,0
+NA_Fish_Dataset/Black Sea Sprat/00031.png,0
+NA_Fish_Dataset/Black Sea Sprat/00042.png,0
+NA_Fish_Dataset/Black Sea Sprat/00045.png,0
+NA_Fish_Dataset/Black Sea Sprat/00026.png,0
+NA_Fish_Dataset/Black Sea Sprat/00046.png,0
+NA_Fish_Dataset/Gilt Head Bream/49.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/48.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/5.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/16.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/31.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/45.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/42.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/44.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/27.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/26.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/1.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/15.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/4.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/46.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/47.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/36.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/17.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/38.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/7.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/33.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/28.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/9.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/20.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/13.JPG,1
+NA_Fish_Dataset/Gilt Head Bream/12.JPG,1
+NA_Fish_Dataset/Horse Mackerel/00048.png,2
+NA_Fish_Dataset/Horse Mackerel/00032.png,2
+NA_Fish_Dataset/Horse Mackerel/00050.png,2
+NA_Fish_Dataset/Horse Mackerel/00001.png,2
+NA_Fish_Dataset/Horse Mackerel/00028.png,2
+NA_Fish_Dataset/Horse Mackerel/00022.png,2
+NA_Fish_Dataset/Horse Mackerel/00029.png,2
+NA_Fish_Dataset/Horse Mackerel/00036.png,2
+NA_Fish_Dataset/Horse Mackerel/00043.png,2
+NA_Fish_Dataset/Horse Mackerel/00040.png,2
+NA_Fish_Dataset/Horse Mackerel/00011.png,2
+NA_Fish_Dataset/Horse Mackerel/00004.png,2
+NA_Fish_Dataset/Horse Mackerel/00027.png,2
+NA_Fish_Dataset/Horse Mackerel/00033.png,2
+NA_Fish_Dataset/Horse Mackerel/00047.png,2
+NA_Fish_Dataset/Horse Mackerel/00039.png,2
+NA_Fish_Dataset/Horse Mackerel/00013.png,2
+NA_Fish_Dataset/Horse Mackerel/00020.png,2
+NA_Fish_Dataset/Horse Mackerel/00019.png,2
+NA_Fish_Dataset/Horse Mackerel/00030.png,2
+NA_Fish_Dataset/Horse Mackerel/00016.png,2
+NA_Fish_Dataset/Horse Mackerel/00025.png,2
+NA_Fish_Dataset/Horse Mackerel/00012.png,2
+NA_Fish_Dataset/Horse Mackerel/00006.png,2
+NA_Fish_Dataset/Horse Mackerel/00003.png,2
+NA_Fish_Dataset/Red Mullet/00030.png,3
+NA_Fish_Dataset/Red Mullet/00038.png,3
+NA_Fish_Dataset/Red Mullet/00039.png,3
+NA_Fish_Dataset/Red Mullet/00004.png,3
+NA_Fish_Dataset/Red Mullet/00018.png,3
+NA_Fish_Dataset/Red Mullet/00048.png,3
+NA_Fish_Dataset/Red Mullet/00037.png,3
+NA_Fish_Dataset/Red Mullet/00031.png,3
+NA_Fish_Dataset/Red Mullet/00016.png,3
+NA_Fish_Dataset/Red Mullet/00032.png,3
+NA_Fish_Dataset/Red Mullet/00010.png,3
+NA_Fish_Dataset/Red Mullet/00005.png,3
+NA_Fish_Dataset/Red Mullet/00043.png,3
+NA_Fish_Dataset/Red Mullet/00036.png,3
+NA_Fish_Dataset/Red Mullet/00049.png,3
+NA_Fish_Dataset/Red Mullet/00026.png,3
+NA_Fish_Dataset/Red Mullet/00002.png,3
+NA_Fish_Dataset/Red Mullet/00044.png,3
+NA_Fish_Dataset/Red Mullet/00033.png,3
+NA_Fish_Dataset/Red Mullet/00040.png,3
+NA_Fish_Dataset/Red Mullet/00022.png,3
+NA_Fish_Dataset/Red Mullet/00028.png,3
+NA_Fish_Dataset/Red Mullet/00012.png,3
+NA_Fish_Dataset/Red Mullet/00007.png,3
+NA_Fish_Dataset/Red Mullet/00009.png,3
+NA_Fish_Dataset/Red Sea Bream/SAM_5538.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5534.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5561.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5536.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1478.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1465.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5552.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5577.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5543.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1479.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1476.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5583.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5569.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5571.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1480.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5540.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5537.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5554.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5545.JPG,4
+NA_Fish_Dataset/Red Sea Bream/SAM_5573.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1483.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1484.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1463.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1482.JPG,4
+NA_Fish_Dataset/Red Sea Bream/100_1477.JPG,4
+NA_Fish_Dataset/Sea Bass/46.JPG,5
+NA_Fish_Dataset/Sea Bass/9.JPG,5
+NA_Fish_Dataset/Sea Bass/48.JPG,5
+NA_Fish_Dataset/Sea Bass/26.JPG,5
+NA_Fish_Dataset/Sea Bass/45.JPG,5
+NA_Fish_Dataset/Sea Bass/27.JPG,5
+NA_Fish_Dataset/Sea Bass/4.JPG,5
+NA_Fish_Dataset/Sea Bass/8.JPG,5
+NA_Fish_Dataset/Sea Bass/29.JPG,5
+NA_Fish_Dataset/Sea Bass/5.JPG,5
+NA_Fish_Dataset/Sea Bass/1.JPG,5
+NA_Fish_Dataset/Sea Bass/3.JPG,5
+NA_Fish_Dataset/Sea Bass/23.JPG,5
+NA_Fish_Dataset/Sea Bass/16.JPG,5
+NA_Fish_Dataset/Sea Bass/25.JPG,5
+NA_Fish_Dataset/Sea Bass/32.JPG,5
+NA_Fish_Dataset/Sea Bass/24.JPG,5
+NA_Fish_Dataset/Sea Bass/34.JPG,5
+NA_Fish_Dataset/Sea Bass/7.JPG,5
+NA_Fish_Dataset/Sea Bass/36.JPG,5
+NA_Fish_Dataset/Sea Bass/6.JPG,5
+NA_Fish_Dataset/Sea Bass/21.JPG,5
+NA_Fish_Dataset/Sea Bass/35.JPG,5
+NA_Fish_Dataset/Sea Bass/30.JPG,5
+NA_Fish_Dataset/Sea Bass/10.JPG,5
+NA_Fish_Dataset/Shrimp/00042.png,6
+NA_Fish_Dataset/Shrimp/00048.png,6
+NA_Fish_Dataset/Shrimp/00038.png,6
+NA_Fish_Dataset/Shrimp/00013.png,6
+NA_Fish_Dataset/Shrimp/00046.png,6
+NA_Fish_Dataset/Shrimp/00035.png,6
+NA_Fish_Dataset/Shrimp/00027.png,6
+NA_Fish_Dataset/Shrimp/00049.png,6
+NA_Fish_Dataset/Shrimp/00032.png,6
+NA_Fish_Dataset/Shrimp/00050.png,6
+NA_Fish_Dataset/Shrimp/00001.png,6
+NA_Fish_Dataset/Shrimp/00011.png,6
+NA_Fish_Dataset/Shrimp/00021.png,6
+NA_Fish_Dataset/Shrimp/00029.png,6
+NA_Fish_Dataset/Shrimp/00016.png,6
+NA_Fish_Dataset/Shrimp/00026.png,6
+NA_Fish_Dataset/Shrimp/00015.png,6
+NA_Fish_Dataset/Shrimp/00012.png,6
+NA_Fish_Dataset/Shrimp/00041.png,6
+NA_Fish_Dataset/Shrimp/00023.png,6
+NA_Fish_Dataset/Shrimp/00044.png,6
+NA_Fish_Dataset/Shrimp/00033.png,6
+NA_Fish_Dataset/Shrimp/00019.png,6
+NA_Fish_Dataset/Shrimp/00004.png,6
+NA_Fish_Dataset/Shrimp/00002.png,6
+NA_Fish_Dataset/Striped Red Mullet/00021.png,7
+NA_Fish_Dataset/Striped Red Mullet/00028.png,7
+NA_Fish_Dataset/Striped Red Mullet/00041.png,7
+NA_Fish_Dataset/Striped Red Mullet/00010.png,7
+NA_Fish_Dataset/Striped Red Mullet/00023.png,7
+NA_Fish_Dataset/Striped Red Mullet/00026.png,7
+NA_Fish_Dataset/Striped Red Mullet/00046.png,7
+NA_Fish_Dataset/Striped Red Mullet/00037.png,7
+NA_Fish_Dataset/Striped Red Mullet/00042.png,7
+NA_Fish_Dataset/Striped Red Mullet/00043.png,7
+NA_Fish_Dataset/Striped Red Mullet/00011.png,7
+NA_Fish_Dataset/Striped Red Mullet/00007.png,7
+NA_Fish_Dataset/Striped Red Mullet/00045.png,7
+NA_Fish_Dataset/Striped Red Mullet/00018.png,7
+NA_Fish_Dataset/Striped Red Mullet/00016.png,7
+NA_Fish_Dataset/Striped Red Mullet/00035.png,7
+NA_Fish_Dataset/Striped Red Mullet/00005.png,7
+NA_Fish_Dataset/Striped Red Mullet/00017.png,7
+NA_Fish_Dataset/Striped Red Mullet/00020.png,7
+NA_Fish_Dataset/Striped Red Mullet/00030.png,7
+NA_Fish_Dataset/Striped Red Mullet/00050.png,7
+NA_Fish_Dataset/Striped Red Mullet/00025.png,7
+NA_Fish_Dataset/Striped Red Mullet/00004.png,7
+NA_Fish_Dataset/Striped Red Mullet/00009.png,7
+NA_Fish_Dataset/Striped Red Mullet/00003.png,7
+NA_Fish_Dataset/Trout/00002.png,8
+NA_Fish_Dataset/Trout/00019.png,8
+NA_Fish_Dataset/Trout/00016.png,8
+NA_Fish_Dataset/Trout/00007.png,8
+NA_Fish_Dataset/Trout/00025.png,8
+NA_Fish_Dataset/Trout/00018.png,8
+NA_Fish_Dataset/Trout/00004.png,8
+NA_Fish_Dataset/Trout/00011.png,8
+NA_Fish_Dataset/Trout/00026.png,8
+NA_Fish_Dataset/Trout/00006.png,8
+NA_Fish_Dataset/Trout/00029.png,8
+NA_Fish_Dataset/Trout/00028.png,8
+NA_Fish_Dataset/Trout/00012.png,8
+NA_Fish_Dataset/Trout/00027.png,8
+NA_Fish_Dataset/Trout/00014.png,8
